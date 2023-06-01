@@ -1,0 +1,5 @@
+in:
+  type: file
+  path_prefix: '/Users/t.kanata/Programming/go/embulk-training/sample_project/csv/sample_'
+out:
+  type: stdout

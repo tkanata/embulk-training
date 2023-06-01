@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    embulk (0.10.50-java)
+      msgpack (>= 1.1.0)
+    embulk-filter-eval (0.1.0)
+    msgpack (1.4.1-java)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  embulk
+  embulk-filter-eval
+
+BUNDLED WITH
+   1.16.0
